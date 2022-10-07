@@ -1,0 +1,43 @@
+
+.text {
+    font-style:oblique;
+    margin-left:50px;
+    
+}
+
+.text1 {
+
+    font-style:oblique;
+    margin-left:50px;
+}
+
+
+
+
+.text2 {
+
+    text-align: justify;
+    font-style: oblique;
+    font-size:23px;
+    white-space:pre-line;
+    margin-left:50px;
+    font-weight: bold;
+    
+    
+}
+
+.caja {
+    margin-top:150px;
+    
+
+    
+}
+
+body {
+ background:url(../oficina1.jpg);
+ background-repeat: repeat-x;
+ background-position: 70%;
+    
+}
+
+

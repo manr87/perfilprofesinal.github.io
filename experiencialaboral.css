@@ -1,0 +1,180 @@
+body {
+    background:url(../laptop-with-notebook-and-glasses-on-table.jpg);
+    background-position: 100%;
+}
+
+.imagen {
+    width:250px;
+    height:250px;
+}
+
+.titulo {
+    text-align:center;
+    font-style:oblique;
+
+}
+
+.imagen {
+    display:block;
+    margin:auto;
+    width: 500px;
+    height:300px;
+    padding-bottom:20px;
+    
+}
+
+#title {
+    text-align:center;
+    font-style:oblique;
+    
+}
+    
+
+
+.imagen1 {
+    width:350px;
+
+}
+
+.imagen2 {
+    width:350px;
+}
+
+
+
+.imagen3 {
+    width:350px;
+    height:250px;
+}
+
+.bloque {
+    margin-top:20px;
+    display:grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    column-gap: 20px;
+}
+.imagen1 {
+    display:block;
+    margin:auto;
+    margin-top:20px;
+    height:300px;
+}
+
+.imagen2 {
+    display:block;
+    margin:auto;
+    margin-top:20px;
+    height:300px;
+}
+
+.imagen3 {
+    display:block;
+    margin:auto;
+    margin-top:20px;
+    height:300px;
+
+}
+
+h2 {
+    margin-left:10px;
+    font-size:20px;
+    font-style:oblique;
+}
+
+h3 {
+    margin-left:10px;
+    font-size:12px;
+    font-style:oblique;
+}
+
+
+
+
+.titulo2 {
+    margin-left:10px;
+    font-style:oblique;
+}
+
+
+
+.bloque2 {
+    display:grid;
+    grid-template-columns: 50% 50%;
+    column-gap:20px;
+    margin-top:20px;
+    
+    
+}
+
+
+.imagen4 {
+    width:350px;
+    display:block;
+    margin:auto;
+    margin-top: 20px;
+}
+
+.imagen5{
+    width:350px;
+    display:block;
+    margin:auto;
+    margin-top: 20px;
+}
+
+.caja2 {
+    
+    display:block;
+    margin:auto;
+    
+}
+
+#title2{
+    text-align:center;
+    font-style:oblique;;
+    font-style:oblique;
+}
+
+.caja3 {
+    
+    display:block;
+    margin:auto;
+    height:647px;
+    
+}
+
+
+ul {
+
+    font-style:oblique;
+}
+
+hr {
+    background-color: blue;
+    height:2px;
+}
+
+.caja4 {
+    position:relative;
+    left:30px;
+}
+
+.caja5 {
+    position:relative;
+    left:8px;
+}
+
+.caja6 {
+    position:relative;
+    left:45px;
+}
+
+
+.imagen6 {
+    width: 300px;
+    height:300px;
+
+}
+
+.caja7 {
+    margin-left:500px;
+}

@@ -1,0 +1,51 @@
+
+
+
+.bloque {
+    display:grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 10px;
+    
+}
+
+ol {
+    margin-bottom:10px;
+}
+
+
+
+#titulo{
+    text-align:center;
+    font-style:oblique;
+    
+}
+
+body {
+    background:url(../19366.jpg);
+    background-size: 1000px;
+}
+
+hr {
+    height:1px;
+    background:blue;
+}
+
+
+
+li {
+    font-style:oblique;
+}
+
+.title {
+    font-style:oblique;
+}
+
+.titulo1 {
+    font-style:oblique;
+
+}
+
+
+.caja {
+    margin-left: 20px;
+}
